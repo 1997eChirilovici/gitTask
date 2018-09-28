@@ -2,7 +2,7 @@ package com.company;
 
 class ConflictClass{
     void message(){
-        System.out.println("My conflict, master");
+        System.out.println("My conflict, xBug (and Muster)");
     }
 }
 
