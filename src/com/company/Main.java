@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Ce zi minunata :)");
         System.out.println("Cu adevart e frumos afara");
         System.out.println("Cum ai dormit, ce ai mincat?");
+        System.out.println("Ca un rege, un mar");
     }
 }
